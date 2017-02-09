@@ -2,6 +2,10 @@
 
 ## 1.2.1
 
+- Add support currency exponents according [ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)
+
+## 1.2.1
+
 - Add Money.abs/1
 - Add Money.neg/1
 - Fix issues with Money.divide/2 and negative values [#57]
