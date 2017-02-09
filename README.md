@@ -1,8 +1,8 @@
 # Money
 [![Build Status](https://travis-ci.org/liuggio/money.svg)](https://travis-ci.org/liuggio/money)
 
-Elixir library for working with Money safer, easier, and fun,
-is an interpretation of the Fowler's Money pattern in fun.prog.
+Elixir library for easy working with Money.
+It is fork and development of library [money](https://github.com/liuggio/money)
 
 > "If I had a dime for every time I've seen someone use FLOAT to store currency, I'd have $999.997634" -- [Bill Karwin](https://twitter.com/billkarwin/status/347561901460447232)
 
