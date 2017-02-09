@@ -1,13 +1,8 @@
 # Money
-[![Build Status](https://travis-ci.org/liuggio/money.svg)](https://travis-ci.org/liuggio/money)
+[![Build Status](https://travis-ci.org/Nitrino/monetize.svg)](https://travis-ci.org/Nitrino/monetize)
 
 Elixir library for easy working with Money.
 It is fork and development of library [money](https://github.com/liuggio/money)
-
-> "If I had a dime for every time I've seen someone use FLOAT to store currency, I'd have $999.997634" -- [Bill Karwin](https://twitter.com/billkarwin/status/347561901460447232)
-
-In short: You shouldn't represent monetary values by a float. Wherever
-you need to represent money, use `Money`.
 
 ## USAGE
 
